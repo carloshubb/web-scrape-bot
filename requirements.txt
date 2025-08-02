@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+python-dotenv
+rq 
+redis
+flask
+python-telegram-bot==20.7
